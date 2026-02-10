@@ -1,4 +1,7 @@
 PowerBI-Strategic-Solutions: Laboratório de BI de Classe Enterprise
+
+https://notebooklm.google.com/notebook/3bffa570-e5f9-443a-8520-31a750a64fb5
+
 Este repositório é um ambiente de aprendizado avançado dedicado ao domínio do Business Intelligence utilizando o Power BI. O foco central é a construção de soluções que equilibram o rigor técnico da arquitetura de dados com a arte da narrativa visual, garantindo relatórios escaláveis, performáticos e estrategicamente relevantes.
 
 --------------------------------------------------------------------------------
